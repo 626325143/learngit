@@ -3,8 +3,5 @@ this is two license
 this is three license
 this is four license
 Create a new branch is quick
-<<<<<<< HEAD
 Create a new branch is quick And simple
-=======
 Create a new branch is quick And simple
->>>>>>> sunlei
